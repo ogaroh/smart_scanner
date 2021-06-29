@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.smart_scanner">
    <application
-        android:label="smart_scanner"
+        android:label="Smart Scanner"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
