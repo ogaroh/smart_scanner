@@ -1,4 +1,4 @@
-package com.example.smart_scanner
+package com.alopex.smartscanner
 
 import io.flutter.embedding.android.FlutterActivity
 

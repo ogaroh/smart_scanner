@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.smart_scanner">
+    package="com.alopex.smartscanner">
    <application
         android:label="Smart Scanner"
         android:icon="@mipmap/ic_launcher">
