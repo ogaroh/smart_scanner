@@ -24,19 +24,19 @@ dependencies:
   flutter:
     sdk: flutter
 
-  barcode: ^2.1.0
+  # barcode: ^2.1.0
   bottom_navy_bar: ^6.0.0
   cupertino_icons: ^1.0.2
-  file: ^6.1.2
+  # file: ^6.1.2
   google_fonts: ^2.1.0
-  google_mobile_ads: ^0.13.1
-  path_provider: ^2.0.2
-  provider: ^5.0.0
-  qr_code_scanner: ^0.5.1
-  qr_flutter: ^4.0.0
-  shared_preferences: ^2.0.6
-  simple_icons: ^5.2.0
-  sqflite: ^2.0.0+3
+  # google_mobile_ads: ^0.13.1
+  # path_provider: ^2.0.2
+  # provider: ^5.0.0
+  # qr_code_scanner: ^0.5.1
+  # qr_flutter: ^4.0.0
+  # shared_preferences: ^2.0.6
+  # simple_icons: ^5.2.0
+  # sqflite: ^2.0.0+3
 
 dev_dependencies:
   flutter_test:
